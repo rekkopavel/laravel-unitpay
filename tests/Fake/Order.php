@@ -1,6 +1,6 @@
 <?php
 
-namespace Maksa988\UnitPay\Test\Fake;
+namespace RekkoPavel\UnitPay\Test\Fake;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\Request;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Maksa988\UnitPay;
+namespace RekkoPavel\UnitPay;
 
 use Illuminate\Support\ServiceProvider;
 

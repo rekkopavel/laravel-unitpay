@@ -1,9 +1,9 @@
 <?php
 
-namespace Maksa988\UnitPay\Test;
+namespace RekkoPavel\UnitPay\Test;
 
-use Maksa988\UnitPay\UnitPay;
-use Maksa988\UnitPay\UnitPayServiceProvider;
+use RekkoPavel\UnitPay\UnitPay;
+use RekkoPavel\UnitPay\UnitPayServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra

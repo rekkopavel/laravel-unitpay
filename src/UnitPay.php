@@ -1,11 +1,11 @@
 <?php
 
-namespace Maksa988\UnitPay;
+namespace RekkoPavel\UnitPay;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
-use Maksa988\UnitPay\Traits\CallerTrait;
-use Maksa988\UnitPay\Traits\ValidateTrait;
+use RekkoPavel\UnitPay\Traits\CallerTrait;
+use RekkoPavel\UnitPay\Traits\ValidateTrait;
 
 class UnitPay
 {

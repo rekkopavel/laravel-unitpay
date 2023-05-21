@@ -1,6 +1,6 @@
 <?php
 
-namespace Maksa988\UnitPay\Traits;
+namespace RekkoPavel\UnitPay\Traits;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;

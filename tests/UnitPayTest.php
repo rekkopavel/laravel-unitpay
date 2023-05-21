@@ -1,11 +1,11 @@
 <?php
 
-namespace Maksa988\UnitPay\Test;
+namespace RekkoPavel\UnitPay\Test;
 
 use Illuminate\Http\Request;
-use Maksa988\UnitPay\Exceptions\InvalidPaidOrder;
-use Maksa988\UnitPay\Exceptions\InvalidSearchOrder;
-use Maksa988\UnitPay\Test\Fake\Order;
+use RekkoPavel\UnitPay\Exceptions\InvalidPaidOrder;
+use RekkoPavel\UnitPay\Exceptions\InvalidSearchOrder;
+use RekkoPavel\UnitPay\Test\Fake\Order;
 
 class UnitPayTest extends TestCase
 {
