@@ -8,6 +8,7 @@
             "email": "stalk6@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.3|^8.0",
         "laravel/framework": "8.*|9.*|10.*",
